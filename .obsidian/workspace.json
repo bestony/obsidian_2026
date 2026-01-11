@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2026-01-13.md",
-                "mode": "source",
-                "source": false
+                "file": "10_Projects/1001_Stepfun/未命名.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-01-13"
+              "title": "未命名"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -115,21 +115,6 @@
               },
               "icon": "links-coming-in",
               "title": "BA 的反向链接列表"
-            }
-          },
-          {
-            "id": "bdb009d2f10ec6ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Journal/2026-01-13.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2026-01-13 的大纲"
             }
           },
           {
@@ -176,6 +161,21 @@
             }
           },
           {
+            "id": "bdb009d2f10ec6ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/BA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "BA 的大纲"
+            }
+          },
+          {
             "id": "1216eba5d64fc713",
             "type": "leaf",
             "state": {
@@ -191,8 +191,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -201,8 +201,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
         ],
@@ -214,13 +214,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -229,11 +229,12 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "1216eba5d64fc713",
+  "active": "6e13ebad652d86d5",
   "lastOpenFiles": [
-    "Templates/BA.md",
     "Journal/2026-01-13.md",
-    "Journal",
+    "Templates/BA.md",
+    "10_Projects/1003_OpenShare",
+    "10_Projects/1002_Unispark",
     "Journal",
     "2026-01-11.md",
     "未命名 1.base",
