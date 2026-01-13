@@ -11,14 +11,14 @@
             "id": "6e13ebad652d86d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "10_Projects/1001_Stepfun/未命名.md",
-                "mode": "preview",
-                "source": true
+                "aFile": "Journal/2026-01-13.md",
+                "bFile": "Journal/2026-01-13.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "diff",
+              "title": "Diff: 2026-01-13  (Working Tree)"
             }
           }
         ]
@@ -232,6 +232,7 @@
   "active": "6e13ebad652d86d5",
   "lastOpenFiles": [
     "Journal/2026-01-13.md",
+    "10_Projects/1001_Stepfun/未命名.md",
     "Templates/BA.md",
     "10_Projects/1003_OpenShare",
     "10_Projects/1002_Unispark",
@@ -239,7 +240,6 @@
     "2026-01-11.md",
     "未命名 1.base",
     "未命名.base",
-    "10_Projects/1001_Stepfun/未命名.md",
     "10_Projects/1001_Stepfun",
     "欢迎.md",
     "attachments",
