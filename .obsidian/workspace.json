@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/BA.md",
+                "file": "Journal/2026-01-13.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "BA"
-            }
-          },
-          {
-            "id": "d00f0246d4d03c69",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "2026-01-13"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -202,8 +191,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -212,8 +201,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           }
         ],
@@ -225,13 +214,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -240,13 +229,15 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "1216eba5d64fc713",
+  "active": "6e13ebad652d86d5",
   "lastOpenFiles": [
+    "Templates/BA.md",
+    "Journal/2026-01-13.md",
+    "Journal",
     "Journal",
     "2026-01-11.md",
     "未命名 1.base",
     "未命名.base",
-    "Templates/BA.md",
     "10_Projects/1001_Stepfun/未命名.md",
     "10_Projects/1001_Stepfun",
     "欢迎.md",
