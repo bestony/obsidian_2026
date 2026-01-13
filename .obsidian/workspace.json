@@ -15,7 +15,7 @@
               "state": {
                 "file": "Journal/2026-01-13.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2026-01-13"
@@ -118,6 +118,21 @@
             }
           },
           {
+            "id": "bdb009d2f10ec6ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2026-01-13.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-13 的大纲"
+            }
+          },
+          {
             "id": "eaba8e25b9095bdc",
             "type": "leaf",
             "state": {
@@ -158,21 +173,6 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "bdb009d2f10ec6ea",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Templates/BA.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "BA 的大纲"
             }
           },
           {
@@ -229,7 +229,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "6e13ebad652d86d5",
+  "active": "1216eba5d64fc713",
   "lastOpenFiles": [
     "Templates/BA.md",
     "Journal/2026-01-13.md",
