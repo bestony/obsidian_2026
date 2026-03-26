@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c5d3bb34c28b371",
+        "id": "05f2c41de9286f32",
         "type": "tabs",
         "children": [
           {
-            "id": "6e13ebad652d86d5",
+            "id": "87d105ec24aaa873",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Journal/2026-01-13.md",
-                "bFile": "Journal/2026-01-13.md",
-                "aRef": ""
+                "file": "Agent Harness.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-13  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Agent Harness"
             }
           }
         ]
@@ -80,15 +80,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fec4dc4fbc5b2342",
@@ -184,26 +185,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "67885a0229c5847e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "d45c4d4e1868c4bd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
         "currentTab": 5
@@ -214,13 +195,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -229,8 +210,9 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "6e13ebad652d86d5",
+  "active": "87d105ec24aaa873",
   "lastOpenFiles": [
+    "Agent Harness.md",
     "Journal/2026-01-13.md",
     "10_Projects/1001_Stepfun/未命名.md",
     "Templates/BA.md",
