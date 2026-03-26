@@ -77,3 +77,7 @@ Harness 里要有 planner / todo / subagent / handoff 之类的机制。很多 a
 - https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1
 - https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
 - https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
+- https://mostlycopyandpaste.com/articles/2026/02/ai-agent-harnesses/
+- https://codenote.net/en/posts/harness-engineering-ai-agent-era/
+- https://openai.com/zh-Hans-CN/index/harness-engineering/
+- https://mitchellh.com/writing/my-ai-adoption-journey
