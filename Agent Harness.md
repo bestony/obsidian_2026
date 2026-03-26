@@ -69,3 +69,11 @@ Harness 里要有 planner / todo / subagent / handoff 之类的机制。很多 a
 - https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law
 - https://www.salesforce.com/agentforce/ai-agents/agent-harness/
 - https://aakashgupta.medium.com/2025-was-agents-2026-is-agent-harnesses-heres-why-that-changes-everything-073e9877655e
+- https://paddo.dev/blog/agent-harnesses-from-diy-to-product/
+- https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html
+- https://dev.to/apssouza22/building-a-production-ready-ai-agent-harness-2570
+- https://ezz.sh/posts/agent_vs_harness
+- https://conais.com/agent-harness/
+- https://medium.com/@bijit211987/agent-harness-b1f6d5a7a1d1
+- https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
+- https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
